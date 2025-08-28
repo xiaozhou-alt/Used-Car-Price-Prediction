@@ -179,4 +179,7 @@ ls output/
 
 战绩可查 ∠( ᐛ 」∠)_：
 
+
 ![](./output/pic/record.png)
+
+更多信息请关注我的博客CSDN：[基于 LightGBM 的二手车价格预测](https://blog.csdn.net/soejjdiwjssundo/article/details/149772010)
